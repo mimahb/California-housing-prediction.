@@ -1,6 +1,6 @@
 # California-housing-prediction.
 Predicting California housing prices using machine learning
-# California Housing Prices Prediction
+## California Housing Prices Prediction
 
 This project predicts California housing prices based on factors like median income and housing age using machine learning models like Linear Regression and Random Forest.
 
